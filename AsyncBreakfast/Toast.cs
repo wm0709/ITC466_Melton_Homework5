@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AsyncBreakfast
 {
-    class Toast
+    public class Toast
     {
     }
 }
