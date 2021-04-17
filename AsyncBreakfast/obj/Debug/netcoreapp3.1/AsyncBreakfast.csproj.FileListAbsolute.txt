@@ -1,0 +1,13 @@
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.exe
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.deps.json
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.runtimeconfig.json
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.runtimeconfig.dev.json
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.dll
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.pdb
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.csprojAssemblyReference.cache
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.AssemblyInfoInputs.cache
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.AssemblyInfo.cs
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.csproj.CoreCompileInputs.cache
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.dll
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.pdb
+D:\School Work\ITC 466\Melton_Homework5\ITC466_Melton_Homework5\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.genruntimeconfig.cache
